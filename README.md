@@ -4,9 +4,10 @@ Rich text editor for VueJS.2 based on summernote
 
 ## Requires
 [Bootstrap 4](https://getbootstrap.com)
-[VueJS 2](https://vuejs.org/)
-[summernote 0.8.1](https://summernote.org/)
 
+[VueJS 2](https://vuejs.org/)
+
+[summernote 0.8.1](https://summernote.org/)
 
 ## Usage
 
