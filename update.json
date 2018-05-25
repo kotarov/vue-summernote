@@ -1,8 +1,0 @@
-{
-  "packageManager": "github",
-  "name": "vue-summernote",
-  "repo": "kotarov/vue-summernote",
-  "files": {
-    "include": ["README.mb","vue-summernote.es5.js"]
-  }
-}
