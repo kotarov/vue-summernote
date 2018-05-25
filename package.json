@@ -1,0 +1,10 @@
+{
+  "name": "vue-summernote",
+  "version": "0.2",
+  "description": "A simple Vue.js RTE component.",
+  "keywords": [
+    "vue",
+    "richtexteditor",
+    "text editor"
+  ]
+}
