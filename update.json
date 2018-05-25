@@ -1,12 +1,8 @@
 {
+  "packageManager": "github",
   "name": "vue-summernote",
-  "version": "0.2",
-  "description": "A simple Vue.js RTE component.",
-  "keywords": [
-    "vue",
-    "richtexteditor",
-    "text editor"
-  ],
-  "private": false,
-  "license": "MIT"
+  "repo": "kotarov/vue-summernote",
+  "files": {
+    "include": ["README.mb","vue-summernote.es5.js"]
+  }
 }
