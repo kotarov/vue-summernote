@@ -32,6 +32,8 @@ const SummernoteComponent = {
 			}
 		})
 		this.summernote.on('summernote.change', this.onChange)
+		$("#"+this.id).next().find(".note-toolbar").find("[data-toggle=dropdown]").attr('onclick','$(this).next().toggle()')
+			.next().attr('onclick','$(this).toggle()')
 	},
 	methods:{
 		onChange(we){
