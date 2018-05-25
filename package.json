@@ -6,5 +6,7 @@
     "vue",
     "richtexteditor",
     "text editor"
-  ]
+  ],
+  "private": false,
+  "license": "MIT"
 }
