@@ -8,6 +8,7 @@ const SummernoteComponent = {
 	watch:{
 		value(val){ 
 			if(this.summernote.summernote('code') !== val) {
+				//this.summernote.summernote("editor.rewind")
 				this.summernote.summernote('code',val)
 			} 
 		}
